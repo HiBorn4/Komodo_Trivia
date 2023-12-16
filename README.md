@@ -103,5 +103,3 @@ https://github.com/HiBorn4/Komodo_Trivia/blob/main/assets/screenshots/demo.mp4
 Contributions to the project are welcome! Feel free to create pull requests or report any issues.
 
 ---
-
-Please note: The README should be tailored to your specific application, providing relevant information, instructions, and details about the app's functionalities and structure. Also, include any necessary attributions or credits if your app uses external resources or libraries.# Quizify_Flutter_UI_API
