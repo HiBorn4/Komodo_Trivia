@@ -70,7 +70,19 @@ komodo_trivia/
 
 ## Screenshots
 
-[Insert screenshots or GIFs of the app in action]
+<p>Here are some screenshots of the Flutter Review the App in action:</p>
+
+<p><strong>Home Screen</strong></p>
+<img src="assets/screenshots/home.png" width="400">
+
+<p><strong>difficulty Screen</strong></p>
+<img src="assets/screenshots/difficulty.png" width="400">
+
+<p><strong>Question Screen</strong></p>
+<img src="assets/screenshots/question.png" width="400">
+
+<p><strong>Result Screen</strong></p>
+<img src="assets/screenshots/result.png" width="400">
 
 ## Contributions
 
