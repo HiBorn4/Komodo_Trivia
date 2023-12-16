@@ -1,5 +1,3 @@
-Creating a README file for an application provides information and instructions for developers and users. Below is an example of a README file for a Flutter quiz application:
-
 ---
 
 # Komodo Trivia - Flutter Quiz App
