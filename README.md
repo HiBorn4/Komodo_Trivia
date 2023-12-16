@@ -80,17 +80,24 @@ A demo video showcasing the Flutter Meal App's features.
 
 <p>Here are some screenshots of the Flutter Review the App in action:</p>
 
-<p><strong>Home Screen</strong></p>
-<img src="assets/screenshots/home.png" width="400">
-
-<p><strong>difficulty Screen</strong></p>
-<img src="assets/screenshots/difficulty.png" width="400">
-
-<p><strong>Question Screen</strong></p>
-<img src="assets/screenshots/question.png" width="400">
-
-<p><strong>Result Screen</strong></p>
-<img src="assets/screenshots/result.png" width="400">
+<p align="center">
+  <table>
+    <tr>
+      <td style="padding-right: 20">
+        <img src="assets/screenshots/home.png" alt="App Screenshot 1" width="480">
+      </td>
+      <td>
+        <img src="assets/screenshots/difficulty.png" alt="App Screenshot 2" width="480">
+      </td>
+      <td>
+        <img src="assets/screenshots/question.png" alt="App Screenshot 2" width="480">
+      </td>
+      <td>
+        <img src="assets/screenshots/result.png" alt="App Screenshot 2" width="480">
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## Contributions
 
