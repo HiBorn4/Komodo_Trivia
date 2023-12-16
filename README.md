@@ -68,6 +68,14 @@ komodo_trivia/
 └── README.md
 ```
 
+## App Demo
+
+Demo video of the Flutter Meal App in action:
+
+https://github.com/HiBorn4/flutter-meal-app/assets/screenshots/demo.mp4
+
+A demo video showcasing the Flutter Meal App's features.
+
 ## Screenshots
 
 <p>Here are some screenshots of the Flutter Review the App in action:</p>
