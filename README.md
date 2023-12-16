@@ -74,7 +74,6 @@ Demo video of the Flutter Meal App in action:
 
 https://github.com/HiBorn4/Komodo_Trivia/blob/main/assets/screenshots/demo.mp4
 
-A demo video showcasing the Flutter Meal App's features.
 
 ## Screenshots
 
